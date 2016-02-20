@@ -6,6 +6,6 @@ For more info on Mantra, read the [specs](https://kadirahq.github.io/mantra/) an
 
 To get this set up clone the repo with:
 
-`git@github.com:kenrogers/mantraplate.git`
+`git clone git@github.com:kenrogers/mantraplate.git`
 
 And then run `npm install`
